@@ -81,7 +81,7 @@ void DiscordImpl::UpdateGameStatus(bool use_default) {
 }
 
 void DiscordImpl::Update() {
-    const std::string default_text = "yuzu is an emulator for the Nintendo Switch";
+    const std::string default_text = "shift is an emulator for the Nintendo Switch";
     const std::string default_image = "yuzu_logo";
 
     if (system.IsPoweredOn()) {
