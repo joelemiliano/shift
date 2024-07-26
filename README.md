@@ -5,13 +5,13 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 <h1 align="center">
   <br>
-  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
+  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="shift" width="200"></a>
   <br>
-  <b>yuzu</b>
+  <b>shift</b>
   <br>
 </h1>
 
-<h4 align="center"><b>yuzu</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
+<h4 align="center"><b>shift</b> is the open-source, Nintendo Switch emulator and revival of yuzu
 <br>
 It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 </h4>
@@ -40,9 +40,7 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 
 The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://yuzu-emu.org/help/quickstart/#hardware-requirements).
 
-For a full list of games yuzu supports, please visit our [Compatibility page](https://yuzu-emu.org/game/).
-
-Check out our [website](https://yuzu-emu.org/) for the latest news on exciting features, monthly progress reports, and more!
+For a full list of games shift supports, please visit yuzu's [Compatibility page](https://web.archive.org/web/20240303155638/https://yuzu-emu.org/game/).
 
 ## Development
 
